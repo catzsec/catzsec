@@ -1,6 +1,6 @@
 <h2 align="center">
    Hey 
-   <img src="https://github.com/catzsec/catzsec/raw/main/elmo.gif" width="25px">
+   <img src="https://github.com/catzsec/catzsec/raw/main/elmo.gif" height="25px">
    , I'm CatzSec
    <br>
    <br>
